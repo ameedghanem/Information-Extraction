@@ -10,14 +10,14 @@ In this part once create a knowledge graph of all countries in the world listed 
 This is where the user can ask a question about a specific country of his choice or even can ask about presidents and prime ministers.
 The question asked by the user has to be one these following format:</br>
 `
-    1. Who is the president of <country>?
-    2. Who is the prime minister of <country>?
-    3. What is the population of <country>?
-    4. What is the area of <country>?
-    5. What is the government of <country>?
-    6. What is the capital of <country>?
-    7. When was the president of <country> born?
-    8. When was the prime minister of <country> born?
+    1. Who is the president of <country>?</br>
+    2. Who is the prime minister of <country>?</br>
+    3. What is the population of <country>?</br>
+    4. What is the area of <country>?</br>
+    5. What is the government of <country>?</br>
+    6. What is the capital of <country>?</br>
+    7. When was the president of <country> born?</br>
+    8. When was the prime minister of <country> born?</br>
     9. Who is <entity>?
 `
 ---
