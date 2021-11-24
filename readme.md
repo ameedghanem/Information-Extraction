@@ -1,9 +1,10 @@
 # Information Extraction Project
 
 This is a system that answers a natural language questions about the world countries. It is part of the **Web Data Management course** taught at **Tel aviv university.**</br>
-First, in the offline once need to create the knowledge graph of all countries in the world listed in [this link](https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)).</br>
-An entity in our knowledge graph is an existence who has a wikipedia page.
-A relation is actually a field in the infobox of the entitty that is belongs to.
+## First - The offline part
+In this part once create a knowledge graph of all countries in the world listed in [this link](https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)).</br>
+- An entity in our knowledge graph is an existence who has a wikipedia page.
+- A relation is actually a field in the infobox of the entitty that is belongs to.
 ![logo](https://github.com/ameedghanem/Information-Extraction/blob/main/logos/Screenshot%20from%202021-11-24%2014-31-55.png)
 Second, the online part. This is where the user can ask a question about a specific country of his choice or even can ask about presidents and prime ministers.  
 
