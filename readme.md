@@ -8,7 +8,7 @@ In this part once create a knowledge graph of all countries in the world listed 
 ![logo](https://github.com/ameedghanem/Information-Extraction/blob/main/logos/Screenshot%20from%202021-11-24%2014-31-55.png)
 ## Second -  The online part
 This is where the user can ask a question about a specific country of his choice or even can ask about presidents and prime ministers.
-The question asked by the user has to be one these following format:
+The question asked by the user has to be one these following format:</br>
     1. Who is the president of <country>?
     2. Who is the prime minister of <country>?
     3. What is the population of <country>?
