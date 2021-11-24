@@ -28,7 +28,7 @@ The question asked by the user has to be one these following format:</br>
     $ ./scripts/prerequesties.sh
 # Usage
 - The offline phase (creating the knowledge graph):</br>
-    `$ python geo_qa.py create ontology.nt`
+    `$ python geo_qa.py create ontology.nt`</br>
     This part may takes 7 minutes.
 - the online phases (natural language question answering)</br>
     `$ python geo_qa.py question "<the user's question>"`
