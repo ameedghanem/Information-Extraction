@@ -17,7 +17,7 @@ The question asked by the user has to be one these following format:</br>
     6. What is the capital of <country>?
     7. When was the president of <country> born?
     8. When was the prime minister of <country> born?
-    9. Who is <entity>?  
+    9. Who is <entity>?
 ---
 ## Installation
     $ git clone https://github.com/ameedghanem/Information-Extraction.git 
